@@ -1,2 +1,6 @@
-# Zairja
-AWD-LSTM Poetry Generator served with Flask on Heroku
+## Zairja
+https://zairja.herokuapp.com/
+
+![alt text](image.jpg)
+
+source code soon
